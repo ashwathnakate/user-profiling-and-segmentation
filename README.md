@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 👥 User Profiling and Segmentation
 
 This repository contains a Jupyter Notebook for **User Profiling and Segmentation** using clustering and exploratory data analysis (EDA) techniques. The notebook processes user data to identify distinct groups based on behavior or characteristics — useful for targeted marketing, personalization, and user analytics.
