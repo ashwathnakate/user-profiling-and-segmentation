@@ -84,7 +84,6 @@ plotly
 
 ## 👤 Author
 
-- **Your Name**  
   [GitHub](https://github.com/ashwathnakate)
 
 ---
