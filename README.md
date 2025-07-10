@@ -3,6 +3,9 @@
 
 # 👥 User Profiling and Segmentation
 
+**Deployment Can be found at** 👇
+https://user-profiling-and-segmentation.streamlit.app/
+
 This repository contains a Jupyter Notebook for **User Profiling and Segmentation** using clustering and exploratory data analysis (EDA) techniques. The notebook processes user data to identify distinct groups based on behavior or characteristics — useful for targeted marketing, personalization, and user analytics.
 
 ---
